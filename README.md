@@ -8,7 +8,8 @@ Ant colony optimization (ACO) is a metaheuristic algorithm that is inspired by t
 
 *:Feature Selection
 <div align="justify">     
-Feature selection is a vital process in machine learning and AI, where the most relevant features are selected from a dataset to improve model performance and reduce computational complexity. Participating in AI hackathons and competitions provides an excellent opportunity to excel in feature selection. Here's how:
+Feature selection is a vital process in machine learning and AI, where the most relevant features are selected from a dataset to improve model performance and reduce computational complexity. Participating in AI hackathons and competitions provides an excellent opportunity to excel in feature selection.
+ Here's how:
 
 1. Hands-on experience: Hackathons and competitions offer real-world datasets with complex problems that require effective feature selection techniques. By actively participating in these events, you can gain practical experience in applying different feature selection algorithms.
 2. 
